@@ -1,0 +1,15 @@
+undirected
+6
+d
+a
+b
+a
+b
+d
+d a
+d a
+a d
+a b
+b d
+b a
+d b
